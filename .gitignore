@@ -6,6 +6,7 @@
 .idea/
 *.iml
 *.iws
+SyslogClient.iml
 
 # Mac
 .DS_Store
