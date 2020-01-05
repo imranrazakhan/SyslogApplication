@@ -1,2 +1,15 @@
 /.idea/
 .idea/workspace.xml
+/workspace.xml
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
